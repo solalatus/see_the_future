@@ -1,3 +1,3 @@
-# Repo for the time sreries analysis workshop
+# Repo for the time series analysis workshop
 
 
